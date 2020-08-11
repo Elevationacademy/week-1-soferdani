@@ -88,3 +88,28 @@
 //     }
 // }
 
+
+// let myList = [
+//     {item: "pen", count: 2},
+//     {item: "book", count: 3},
+//     {item: "bottele", count: 5}
+// ]
+
+// myList[0].count = 700
+// myList.splice(1,1)
+// //console.log(myList)
+// let anotherArr = [
+//     {item:"ukulele", count:1},
+//     {item:"bangolele", count: 4}
+// ]
+// myList.push(...anotherArr)
+
+// let library = {
+//     books:[
+//         {title:"harry poter", aother:"j.k.rolling"},
+//         {title:"sherlok holems i think", aother:"whatEveeerr"}
+//     ]
+// }
+
+// myList.push(...library.books)
+// console.log(myList)
