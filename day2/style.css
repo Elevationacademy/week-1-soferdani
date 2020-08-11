@@ -1,0 +1,76 @@
+#father {
+    width: 300px;
+    height: 300px;
+    
+    /* padding: 10px; */
+
+    background-color: red;
+    /* display: inline-block; */
+
+    position: absolute;
+}
+
+#chil1 {
+    width: 100px;
+    height: 100px;
+    background-color: dimgray;
+    position: absolute;
+    /* bottom: 100px; */
+    right: 0;
+  
+}
+
+#chil2 {
+    width: 100px;
+    height: 100px;
+    background-color: forestgreen;
+    position: absolute;
+    /* left: 100px; */
+    right: 0;
+    bottom: 0;
+
+
+}
+
+#chil3 {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    position: absolute;
+    /* left: 100px; */
+    left: 0;
+    bottom: 0;
+
+
+}
+
+
+#chil4 {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    background-color: black;
+}
+
+
+#chil5 {
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    position: absolute;
+    /* left: 100px; */
+    left: 100px;
+    bottom: 100px;
+
+
+}
+
+
+
+/* #second {
+    width: 100px;
+    height: 100px;
+    background-color: cornflowerblue;
+    padding-left: 100px;
+
+} */
