@@ -74,10 +74,3 @@
 //     kitchen["fridge"].items[1].expiryDate = -1
 //     kitchen["fridge"].price-250
 // }
-
-let y = {human: {name: 'Daena', age: 31} }
-let x = [  ][0].age
-
-
-
-console.log(x) //31
